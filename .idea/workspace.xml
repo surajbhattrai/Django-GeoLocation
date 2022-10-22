@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dade8ad-0b93-42c1-95e3-8ec2ab545798" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/foodOnline_main/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/foodOnline_main/static/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/static/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
